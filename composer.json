@@ -1,0 +1,7 @@
+{
+    "name": "martindilling/mailer",
+
+    "require": {
+        "slim/slim": "~2.5"
+    }
+}
